@@ -270,7 +270,7 @@ Full-Width Styles
   padding: 20px 10px;
   margin: 0 auto;
 }
-
+/*
 #forkme_banner {
   display: block;
   position: absolute;
@@ -285,7 +285,7 @@ Full-Width Styles
   border-bottom-left-radius: 2px;
   border-bottom-right-radius: 2px;
 }
-
+*/
 #header_wrap {
   background: #212121;
   background: -moz-linear-gradient(top, #373737, #212121);
@@ -314,7 +314,7 @@ Full-Width Styles
   background: none;
   text-shadow: #111 0px 0px 10px;
 }
-
+/*
 #downloads {
   position: absolute;
   width: 210px;
@@ -353,7 +353,7 @@ Full-Width Styles
 .tar_download_link:hover {
   background: url(../images/sprite_download.png) no-repeat top right;
 }
-
+*/
 #main_content_wrap {
   background: #f2f2f2;
   border-top: 1px solid #111;
